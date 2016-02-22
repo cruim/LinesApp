@@ -1,0 +1,8 @@
+D:\LinesApp\LinesApp\bin\Debug\LinesApp.exe.config
+D:\LinesApp\LinesApp\obj\Debug\LinesApp.Form1.resources
+D:\LinesApp\LinesApp\obj\Debug\LinesApp.Properties.Resources.resources
+D:\LinesApp\LinesApp\obj\Debug\LinesApp.csproj.GenerateResource.Cache
+D:\LinesApp\LinesApp\bin\Debug\LinesApp.exe
+D:\LinesApp\LinesApp\bin\Debug\LinesApp.pdb
+D:\LinesApp\LinesApp\obj\Debug\LinesApp.exe
+D:\LinesApp\LinesApp\obj\Debug\LinesApp.pdb
