@@ -6,3 +6,4 @@ D:\LinesApp\LinesApp\bin\Debug\LinesApp.exe
 D:\LinesApp\LinesApp\bin\Debug\LinesApp.pdb
 D:\LinesApp\LinesApp\obj\Debug\LinesApp.exe
 D:\LinesApp\LinesApp\obj\Debug\LinesApp.pdb
+D:\LinesApp\LinesApp\obj\Debug\LinesApp.csprojResolveAssemblyReference.cache
